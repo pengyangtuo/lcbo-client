@@ -49,9 +49,9 @@ class ChangePasswordForm extends React.Component {
     return (
       <form>
         <div className="form-group">
-          <label htmlFor="exampleInputPassword1">Password</label>
+          <label htmlFor="exampleInputPassword1">New Password</label>
           <input onChange={this.setPassword} type="password" className="form-control" id="exampleInputPassword1"
-                 placeholder="Password"/>
+                 placeholder="New Password"/>
         </div>
 
         {this.props.login.error &&

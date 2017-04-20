@@ -26,7 +26,7 @@ Once an account has been created, the user will receive a welcome email, and he/
 if the user forgot their password, he/she can go to the _Reset Password_ page and put in the email address associated with their account. The application will send out an email contains a link that redirect the user back to the application and create a new password.
 
 Sample email and the page from the email's link
-![search](./misc/reset1.png)
+![search](./misc/reset-1.png)
 
 
-![search](./misc/reset2.png)
+![search](./misc/reset-2.png)

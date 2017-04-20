@@ -1,0 +1,5 @@
+{
+  "serviceEndpoints": {
+    "stores": "http://localhost:9000/locator"
+  }
+}

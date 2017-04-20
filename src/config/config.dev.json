@@ -1,0 +1,9 @@
+{
+  "serviceEndpoints": {
+    "stores": "http://localhost:9000/locator",
+    "login": "http://localhost:9000/user/login",
+    "signup": "http://localhost:9000/user/signup",
+    "reset": "http://localhost:9000/user/resetpassword",
+    "changePassword": "http://localhost:9000/user/changepassword"
+  }
+}

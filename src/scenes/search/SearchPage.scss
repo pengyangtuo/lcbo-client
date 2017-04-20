@@ -1,0 +1,32 @@
+.huge-input{
+  $height: 80px;
+  position: relative;
+  width: 100%;
+
+  .alert {
+    width: 100%;
+  }
+
+  input {
+    height: $height;
+    width: 100%;
+    padding: 0px $height 0px 20px;
+    font-size: 40px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+  }
+
+  button {
+    height: $height;
+    width: $height;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    font-size: 40px;
+
+    span {
+      height: 100%;
+      width: 100%;
+    }
+  }
+}
